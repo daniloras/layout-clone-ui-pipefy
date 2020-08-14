@@ -5,6 +5,8 @@ UI Clone - Pipefy Homepage
 <p align="center">Responsive Pipefy Homepage UI clone for study purposes.</p>
 <p align="center">Deployed <a href="https://layout-clone-ui-pipefy.netlify.app/">here</a>.</p>
 
+![Image - Demo](https://layout-clone-ui-pipefy.netlify.app/exemple.png)
+
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-dropbox-menu?color=%236633cc&logo=mit" alt="License">
