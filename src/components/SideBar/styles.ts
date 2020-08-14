@@ -8,7 +8,7 @@ export const Container = styled.div`
   background: var(--white);
   height: 100vh;
   margin-top: 0px;
-  width: min(56px, 100%);
+  width: min(60px, 100%);
 `;
 
 export const Navigation = styled.div`
